@@ -1,2 +1,1 @@
-The purpose of this repo is to demonstrate my fundametnal understanding of the C++ Language during
-the time I took my first programming class.
+The purpose of this repo is to demonstrate my fundametnal understanding of the C++ Language during the time I took my first programming class.
